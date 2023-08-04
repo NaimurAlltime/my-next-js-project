@@ -1,3 +1,7 @@
+export const metadata = {
+    title: 'About | My Next Project',
+    description: 'This is my first next js project',
+  }
 
 const AboutPage = () => {
     return (
